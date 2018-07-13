@@ -7,7 +7,7 @@
 #include "PS2KeyboardAnalyzerScanCodes.h"
 
 class PS2KeyboardAnalyzerSettings;
-class ANALYZER_EXPORT PS2KeyboardAnalyzer : public Analyzer2
+class PS2KeyboardAnalyzer : public Analyzer2
 {
 public:
 	PS2KeyboardAnalyzer();
